@@ -1,0 +1,16 @@
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/model/repositories/ReservaRepository.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/ApiException.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/ConfirmaApiController.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/NotFoundException.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/model/entities/Reserva.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/configuration/HomeController.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/model/entities/Usuario.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/model/repositories/UsuarioRepository.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/model/util/MailUtil.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/model/util/FilasEnum.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/rodrigoats/workspace/spring-server/src/main/java/io/swagger/api/ConfirmaApi.java
